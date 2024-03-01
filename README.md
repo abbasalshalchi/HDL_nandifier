@@ -8,4 +8,4 @@ how to use:
 how to launch HDL code:
 * download nand2tetris file and decompress
 * go to nand2tetris/tools/ and execute HardwareSimulator.bat
-you can google/youtube nand2tetris to get more information about how this works
+ you can google/youtube nand2tetris to get more information about how this works
